@@ -1,0 +1,14 @@
+GIT HUB
+
+dir - lista
+mkdir - cria diretório (pasta)
+echo - repete comando no console
+echo hello > hello.txt    - cria o arquivo hello.txt e salva o texto 'hello' nele
+rmdir - remove directory apaga diretório
+
+## Links Úteis ##
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
+SHA1 (Secure Hash Algorithm (Algoritmo de Hash Seguro)) é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA). A encriptação gera conjunto de characteres identificador de 40 dígitos.
+é uma forma curta de representar um arquivo.
